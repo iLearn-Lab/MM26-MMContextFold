@@ -1,0 +1,40 @@
+# base.yaml - Dataset and model configurations
+
+datasets:
+  mmsearch_plus:
+    data_file: "dataset/mmsearch_plus/data_unified.jsonl"
+    img_base_dir: "dataset/mmsearch_plus/imgs"
+
+  mmsearch:
+    data_file: "dataset/mmsearch/data_unified.jsonl"
+    img_base_dir: "dataset/mmsearch/imgs"
+
+  world_vqa:
+    data_file: "dataset/world_vqa/data_unified.jsonl"
+    img_base_dir: "dataset/world_vqa/imgs"
+
+  vdr_bench:
+    data_file: "dataset/vdr_bench/data_unified.jsonl"
+    img_base_dir: "dataset/vdr_bench/imgs"
+
+  simplevqa:
+    data_file: "dataset/simplevqa/data_unified.jsonl"
+    img_base_dir: "dataset/simplevqa/imgs"
+
+  livevqa:
+    data_file: "dataset/livevqa/data_unified.jsonl"
+    img_base_dir: "dataset/livevqa/imgs"
+
+  browsecomp_vl:
+    data_file: "dataset/browsecomp_vl/data_unified.jsonl"
+    img_base_dir: "dataset/browsecomp_vl/imgs"
+
+models:
+  gemini-2.5-flash:
+    full_name: "google/gemini-2.5-flash"
+    provider: "openrouter"
+
+defaults:
+  dataset: "mmsearch_plus"
+  model: "gemini-2.5-flash"
+  max_rounds: 15
