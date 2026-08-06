@@ -18,7 +18,7 @@
 
 - **Paper**: [`ACM DL`](https://doi.org/10.1145/3767308.3836039)
 - **Code Repository**: [`GitHub`](https://github.com/iLearn-Lab/MM26-MMContextFold)
-
+- **Dataset**: [`GitHub`](https://github.com/iLearn-Lab/MM26-MMContextFold/tree/main/dataset)
 ---
 
 ## Table of Contents
@@ -325,4 +325,4 @@ If you find this work helpful, please cite our paper:
 
 ## License
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+This project is released under the Apache License 2.0.
