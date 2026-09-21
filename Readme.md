@@ -42,7 +42,8 @@
 ## Updates
 
 - [08/2026] Release code and scripts
-- [2026] MM-ContextFold is accepted by ACM Multimedia 2026
+- [08/2026] MM-ContextFold is accepted by ACM Multimedia 2026
+- [09/2026] Preprint version release on ArXiv 
 
 ---
 
