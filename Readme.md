@@ -16,7 +16,7 @@
 
 ## Links
 
-- **Paper**: [`ArXiv`][https://doi.org/10.1145/3767308.3836039](https://arxiv.org/pdf/2609.23121)
+- **Paper**: [`ArXiv`](https://arxiv.org/pdf/2609.23121)
 - **Code Repository**: [`GitHub`](https://github.com/iLearn-Lab/MM26-MMContextFold)
 - **Dataset**: [`GitHub`](https://github.com/iLearn-Lab/MM26-MMContextFold/tree/main/dataset)
 ---
